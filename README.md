@@ -1,0 +1,1 @@
+This is an independent project that I did during some free time I had recently. Its primary purpose was just to familiarize myself with the available baseball data that is online and freshen up my R skills. Any output or graphics would be cleaned up and made more presentable if presented to a group.
